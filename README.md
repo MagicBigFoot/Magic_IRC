@@ -1,1 +1,1 @@
-# MagicIRC
+# Magic_IRC
